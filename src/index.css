@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mintBtn {
+  background: linear-gradient(to right, #4a7aed, #7e6add, #b64c90);
+  border-radius: 42px;
+  color: #3c5476;
+  font-weight: 900;
+  padding: 7px 32px;
+  font-size: 22px;
+  transition: 0.1s linear;
+  position: relative;
+  top: 0;
+  margin-top: 40px;
+}
